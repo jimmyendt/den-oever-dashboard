@@ -1,0 +1,7 @@
+{
+  "name": "den-oever-dashboard",
+  "version": "1.0.0",
+  "description": "Live waterstanden & weerdashboard Den Oever",
+  "engines": { "node": ">=18.0.0" },
+  "scripts": { "dev": "vercel dev" }
+}
